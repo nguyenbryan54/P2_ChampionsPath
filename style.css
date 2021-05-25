@@ -27,14 +27,13 @@ body{
 .gray img{
     position: absolute;
     width: 100%;
-    height: 1150px;
+    height: 200%;
     z-index: -1;
 }
 .shop{
     display: flex;
     justify-content: space-between;
     text-align: center;
-    padding-bottom: 100px;
 }
 .shop2{
     display: flex;
